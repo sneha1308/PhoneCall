@@ -1,0 +1,5 @@
+<root>
+    <item name='android.telephony.PhoneStateListener PhoneStateListener()'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
